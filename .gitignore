@@ -3,3 +3,9 @@ inputs/
 __pycache__/
 *.pyc
 .venv/
+fetch_games.py
+.gitignore
+ugrasen_merged_games.pgi
+ugrasen_merged_games.pgn
+ugrasen_merged_games.ini
+submissions/submission_feature_engineered.csv
